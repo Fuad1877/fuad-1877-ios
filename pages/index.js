@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my site app hacked!" />
         <p className="description">
-          Get started by editing <testing>bam zwana</code>
+          F1.team <testing>bam zwana</code>
         </p>
       </main>
 
